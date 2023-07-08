@@ -7,8 +7,8 @@ import os
 from PIL import Image
 import numpy as np
 
-path = 'VOCdevkit/VOC2007/1/'
-savedpath = 'VOCdevkit/VOC2007/2/'
+path = ''
+savedpath = ''
 
 filelist = os.listdir(path)
 
