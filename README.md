@@ -1,2 +1,2 @@
 # Image-process
-Some image processing applets
+Some image processing code
