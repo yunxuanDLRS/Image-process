@@ -17,7 +17,7 @@ def rename(img_folder,num):
 
 
 def main():
-    img_folder0 = 'VOCdevkit/VOC2007/SegmentationClass/' #图片的文件夹路径
+    img_folder0 = '' #图片的文件夹路径
     num=1
     n=rename(img_folder0,num)
 
