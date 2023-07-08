@@ -7,8 +7,8 @@ import numpy as np
 
 
 
-path = 'img/'
-savedpath = 'VOCdevkit/VOC2007/SegmentationClass_29407/'
+path = ''
+savedpath = ''
 
 if not os.path.exists(savedpath):
     os.makedirs(savedpath)
