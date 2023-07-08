@@ -20,7 +20,7 @@ def rename(img_folder,num):
     print("保存图片{}张".format(num))
 
 def main():
-    img_folder0 = r'VOCdevkit/VOC2007/SegmentationClass_29407/' #图片的文件夹路径
+    img_folder0 = r'' #图片的文件夹路径
     num=0
     n=rename(img_folder0,num)
 
