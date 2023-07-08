@@ -33,7 +33,7 @@ if __name__=="__main__":
 #     print("删除错误文件{}张".format(num))
 
 # def main():
-#     img_folder0 = r'img4/' #图片的文件夹路径
+#     img_folder0 = r'' #图片的文件夹路径
 #     num=0
 #     n=rename(img_folder0,num)
 
