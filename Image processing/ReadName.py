@@ -21,7 +21,7 @@ while os.path.isfile(filename):
     filename = f"{date}_{suffix}.txt"
 
 
-path = 'VOCdevkit/VOC2007/2/'
+path = ''
 filelist = os.listdir(path)
 num = 0
 for item in filelist:
